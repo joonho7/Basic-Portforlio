@@ -1,0 +1,60 @@
+
+*{
+	box-sizing: border-box;
+	padding:20px;
+	text-align: center;
+	/*position: static;*/
+
+}
+
+body{
+
+	background-image: url("../images/polka-dots.png");
+	width: 960px;
+
+}
+
+.myName{
+	background-color: grey;
+	color: white;
+	float: left;
+	width: 200px;
+	height: 100px;
+}
+
+.links{
+	background-color: yellow;
+	float: right;
+}
+
+.aboutMe{
+	background-color: orange;
+	clear: both;
+	float: left;
+	width: 40vw;
+}
+
+.profilePic{
+	float: left;
+	width: 40%;
+}
+
+.bio{
+	
+}
+
+.connect{
+	background-color: midnightblue;
+	float:right;
+	width: 30vw;
+
+}
+
+.connectImage{
+	max-width:25%;
+	float: right;
+	
+}
+
+
+
